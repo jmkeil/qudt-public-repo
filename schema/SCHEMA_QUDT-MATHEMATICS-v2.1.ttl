@@ -122,7 +122,7 @@ qudt:GMD_QUDT-SCHEMA-MATHEMATICS
   vaem:intent "Specifies the schema for QUDT use of mathematics" ;
   vaem:isMetadataFor "http://qudt.org/2.1/schema/mathematics" ;
   vaem:latestPublishedVersion "http://www.qudt.org/doc/2021/12/DOC_SCHEMA-MATHEMATICS-v2.1.html"^^xsd:anyURI ;
-  vaem:logo "http://www.linkedmodel.org/lib/lm/images/logos/qudt_logo-300x110.png"^^xsd:anyURI ;
+  vaem:logo "https://qudt.org/linkedmodels.org/assets/lib/lm/images/logos/qudt_logo-300x110.png"^^xsd:anyURI ;
   vaem:name "qudt" ;
   vaem:namespace "http://qudt.org/schema/qudt/" ;
   vaem:namespacePrefix "qudt" ;
